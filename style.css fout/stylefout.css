@@ -1,0 +1,103 @@
+header img {
+  width: 50%;
+}
+
+p {
+  font-family: 'Playfair Display', serif;
+  color: rgb(143,45,28);
+}
+
+/* navigatie */
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(123,35,23,255);
+  ;
+}
+
+.nav a {
+  padding: 0.5em;
+  font-size: 2em;
+  text-decoration: none;
+  color: rgba(248,240,229,255);
+  font-family: 'Playfair Display', serif;
+}
+
+#nav {
+  position: fixed;
+  right: 0;
+  top: 50%;
+  width: 8em;
+  margin-top: -2.5em;
+}
+/* tekst1 */
+
+.htekst1 {
+  display: flex;
+  font-family: 'Playfair Display', serif;
+  color: rgba(60,5,5,255);
+}
+
+.tekst1 {
+  display: flex;
+}
+
+/* tekst 2 */
+
+.htekst2 {
+  display: flex;
+  font-family: 'Playfair Display', serif;
+  color: rgba(60,5,5,255);
+}
+
+.tekst2 #img {
+  display: flex;
+}
+
+.tekst2 #tekst{
+  display: flex;
+}
+
+/* tekst 3 */
+
+.htekst3 {
+  font-family: 'Playfair Display', serif;
+  color: rgba(60,5,5,255);
+}
+
+.tekst3 {
+  display: flex;
+}
+
+/* tekst 4 */
+
+.htekst4 {
+  display: flex;
+  font-family: 'Playfair Display', serif;
+  color: rgba(60,5,5,255);
+}
+
+.tekst4 {
+  display: flex;
+}
+
+/* tekst 5 */
+
+.htekst5 {
+  display: flex;
+  font-family: 'Playfair Display', serif;
+  color: rgba(60,5,5,255);
+}
+
+.tekst5 {
+  display: flex;
+}
+
+/* footer */
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Playfair Display', serif;
+}
